@@ -1,0 +1,76 @@
+body{
+    color:#000080;
+    background:#ffffff;
+    
+}
+a{
+    color:#800080;
+    font-size:17px;
+}
+a:visited{
+    color:#ff0000;
+}
+li{
+    font-size:10px;
+}
+.first-column{
+    display:table-cell;
+    width:50%;
+}
+.second-column{
+    display:table-cell;
+    width:50%;
+}
+h1{
+    font-weight:900;
+    text-align:center;
+    margin:0;
+}
+h2{
+    text-align:center;
+    margin:0;
+    padding-bottom:1em;
+    border-bottom:1px solid grey;
+    margin-bottom:0.2em;
+}
+h3{
+    text-align:center;
+    margin:0;
+}
+.bh{
+    font-size:2em;
+    
+}
+.body-ul{
+    border-bottom:1px solid grey;
+    padding-bottom:1em;
+}
+.geico{
+    border-bottom:1px solid grey;
+    padding-bottom:1em;
+    text-align:center;
+    font-size:0.7em;
+}
+.geico a {
+    font-size:0.7em;
+}
+.comments{
+    border-bottom:1px solid grey;
+    padding-bottom:1em;
+}
+/*Reflection
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+The link needs to be placed in the head section of the HTML file.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+I used border and margin with positioning. It takes a little practice to make things look nice.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+I used font-size, font-weight, color, and background-color.
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+I did. I used div, span, and section. I think div works well for larger blocks of contents that can stand alone. Section works well for paragraphs, and span works nice for smaller contents such as individual letters or phrases. 
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+My code looks cleaner because the actual code base contains a lot of inline css and some outdated commands.
+commeted section*/
