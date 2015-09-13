@@ -16,3 +16,20 @@ Minutes in a decade:
 irb(main):008:0> 10*365*24*60
 => 5256000
 
+How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+Integer manipulations are calculated and rounded down to the next integer. Floating numbers are calculated with decimals for a higher accuracy.
+
+What is the difference between integers and floats?
+Integers have no decimal place while floats have a decimal place.
+
+What is the difference between integer and float division?
+Integer division rounds down to the next integer. Float division returns a decimal with higher accuracy.
+
+What are strings? Why and when would you use them?
+Strings are a group of letters, symbols, and spaces within a pair of quotation marks. You use them when you want to store a string of letters, symbols, and spaces.
+
+What are local variables? Why and when would you use them?
+Local variables are variables declared in a method or on a local scope. You would use them to store information for the method or other methods.
+
+How was this challenge? Did you get a good review of some of the basics?
+This was not difficult. I got a good review of some of the basics. 
