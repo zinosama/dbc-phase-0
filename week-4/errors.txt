@@ -1,0 +1,8 @@
+Which error was the most difficult to read?
+The error about private method is the most difficult to read.
+How did you figure out what the issue with the error was?
+I figured out the issues by reading and  researching the error messages and simply following through the programming logic.
+Were you able to determine why each error message happened based on the code? 
+Yes.
+When you encounter errors in your future code, what process will you follow to help you debug?
+I would read and research the error messages and simply following through the programming logic.
